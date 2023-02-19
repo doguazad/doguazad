@@ -37,3 +37,5 @@
 ## 🆕 Activity And Best Repos :
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lastdigital&repo=webVersion&theme=midnight-purple"> &nbsp; <img  src="https://github-readme-stats.vercel.app/api/pin/?username=doguazad&repo=paparaQrApi&theme=midnight-purple"><img  src="https://github-readme-stats.vercel.app/api?username=doguazad&show_icons=true&theme=midnight-purple"> &nbsp; <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=doguazad&theme=midnight-purple&layout=compact"> 
+<hr>
+Note: Commercial advertisements are made in this profile.™
