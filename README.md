@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d6d6&lines=Hello+World.)](https://www.twitter.com/doguazadd/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d6d6&lines=Hello+World..)](https://www.twitter.com/doguazadd/)
 
 
 ## 📧 Contact :
